@@ -1,0 +1,15 @@
+llm_provider: OpenAI
+output_file: output.csv
+prompt:
+  system: ''
+  user: What is the capital of France?
+search_engine: Bing
+input_csv: null
+output_csv: null
+model:
+  provider: azure
+  name: null
+search:
+  engine: google
+  results: 10
+logfire: false
